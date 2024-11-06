@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KK4_XIRPL</string>
+    <array name="spOperator">
+        <item>+</item>
+        <item>-</item>
+        <item>x</item>
+        <item>:</item>
+    </array>
+</resources>
